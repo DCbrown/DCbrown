@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am a Computer Support IT Technician turned Developer, occasional Mentor and Technology Instructor located in Michigan. My love for just about all things computers started back in my High School years, I had a computer drafting class that helped me develop Graphic Design Skills which helped sparked my interest in just about all things Technology.
+
+- 📫 How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/browncdonovan/)
+Twitter: @browncdonovan
 
 <!--
 **DCbrown/DCbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
