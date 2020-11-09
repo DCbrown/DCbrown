@@ -8,6 +8,7 @@ Proud to say that I  currently work at my dream company [Detroit Labs](https://w
 ### Wanna talk about code or looking for a coding Mentor? My DM's are always open: 
 * [LinkedIn](https://www.linkedin.com/in/browncdonovan/)
 * [Instagram](https://www.instagram.com/brown_c_donovan/)
+* [Twitter](https://twitter.com/browncdonovan)
 * [Online CV](https://cv.browncdonovan.com)
 
 <!--
