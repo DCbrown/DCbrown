@@ -4,7 +4,7 @@
 # Meet Donovan  
 Hi there, I am a Computer Support IT Technician turned Self-taught Developer, occasional Mentor and Technology Instructor located in Michigan. Other than that, I am a huge Geek/Nerd when it comes to gaming both new and classic games especially most things Nintendo (I'm really good at Mario Kart and Super Smash Bros.) I also enjoy comics books, and pop culture in general.
 
-Proud to say that I  currently work at my dream company [Detroit Labs](https://www.detroitlabs.com) as an Onsite Developer working on various exciting software development projects for [Quicken Loans](https://www.quickenloans.com).
+Proud to say that I currently work at my dream company [Detroit Labs](https://www.detroitlabs.com) as a JavaScript Developer 
 
 ### Wanna talk about code or looking for a coding Mentor? My DM's are always open: 
 * [LinkedIn](https://www.linkedin.com/in/browncdonovan/)
