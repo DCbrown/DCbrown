@@ -9,6 +9,7 @@ Proud to say that I currently work at my dream company [Detroit Labs](https://ww
 ### Wanna talk about code or looking for a coding Mentor? My DM's are always open: 
 * [LinkedIn](https://www.linkedin.com/in/browncdonovan/)
 * [Online CV](https://cv.browncdonovan.com)
+<a href="https://app.daily.dev/browncdonovan"><img src="https://api.daily.dev/devcards/f30a2f21dd1743d8afc885be812c3de6.png?r=z17" width="400" alt="Donovan Brown's Dev Card"/></a>
 
 <!--
 **DCbrown/DCbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
