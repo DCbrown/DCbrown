@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native and Supabase**
 
-- 💬 Ask me about **JavaScript, React. React Native**
+- 💬 Ask me about **JavaScript, React, and React Native**
 
 - 📫 How to reach me **browncdonovan@gmail.com**
 
