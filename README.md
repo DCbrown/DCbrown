@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React and React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and Supabase**
 
 - 💬 Ask me about **JavaScript, React. React Native**
 
