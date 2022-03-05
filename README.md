@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://cv.browncdonovan.com/](https://cv.browncdonovan.com/)
 
-- ⚡ Fun fact **Huge Gamer, Comics Books, and Pop Culture, and often listen's to LoFi / Chill Hip-Hop while coding**
+- ⚡ Fun fact **Huge Gamer, Comics Books, and Pop Culture, and often listens to LoFi / Chill Hip-Hop while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
