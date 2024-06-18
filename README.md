@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Shopify development, and Prompt Engineering w AI**
 
-- 💬 Ask me about **JavaScript, React, React Native and, Prompt Engineering w AI**
+- 💬 Ask me about **JavaScript, React, React Native, and Prompt Engineering w AI**
 
 - 📫 How to reach me **browncdonovan@gmail.com**
 
