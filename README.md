@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React, React Native, Nextjs**
 
-- 🌱 I’m currently learning **Nextjs, Shopify development, and Prompt Engineering w AI**
+- 🌱 I’m currently learning **Nextjs, and Prompt Engineering w AI**
 
 - 💬 Ask me about **JavaScript, React, React Native, and Prompt Engineering w AI**
 
