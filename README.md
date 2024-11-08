@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Donovan Brown</h1>
 <h3 align="center">A Computer Support IT Technician turned Self-taught Developer, Technical Mentor, and Technology Instructor from Michigan</h3>
 
-- 🔭 I’m currently working on **React, React Native, Nextjs, and Shopify**
+- 🔭 I’m currently working on **React, React Native, Nextjs**
 
 - 🌱 I’m currently learning **Nextjs, Shopify development, and Prompt Engineering w AI**
 
